@@ -52,7 +52,7 @@ export const TREATMENTS = [
     id: 6,
     name: "Laser Hair Reduction",
     description: "Trade the razor for lasting smoothness and enjoy the freedom of hair-free skin.",
-    image: "/featured6.png",
+    image: "/featured6.jpg",
   },
 ];
 
