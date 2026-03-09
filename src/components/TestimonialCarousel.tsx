@@ -27,7 +27,7 @@ export const TestimonialCarousel = () => {
             <Star size={20} className="fill-accent" />
             <Star size={20} className="fill-accent" />
             <Star size={20} className="fill-accent" />
-            <span className="ml-2 text-primary font-bold">4.8/5 on Google Reviews</span>
+            <span className="ml-2 text-primary font-bold">5/5 on Google Reviews</span>
           </div>
         </div>
 
