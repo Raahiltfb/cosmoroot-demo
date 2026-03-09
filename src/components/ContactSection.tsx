@@ -88,14 +88,14 @@ export const ContactSection = () => {
           >
             {/* Live Google Map */}
             <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.5717482700397!2d77.6068914753212!3d13.062909087260964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae19ecad3398f3%3A0xa319abbdb18531c0!2sNewMee%20Cosmetology!5e0!3m2!1sen!2sin!4v1772780367960!5m2!1sen!2sin" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3749.669660860079!2d73.79647897546307!3d19.980389981419407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bddebf0c0e55f11%3A0xc5242ed521db2e84!2sCosmoRoot%20Skin%2C%20Hair%2C%20Laser%20%26%20Dental%20Clinic!5e0!3m2!1sen!2sin!4v1773045537305!5m2!1sen!2sin" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" 
               width="100%" 
               height="100%" 
               style={{ border: 0 }} 
               allowFullScreen 
               loading="lazy" 
               referrerPolicy="no-referrer-when-downgrade"
-              title="NewMee Cosmetology Location"
+              title="CosmoRoot Clinic Location"
             ></iframe>
           </motion.div>
         </div>
