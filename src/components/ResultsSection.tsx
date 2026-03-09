@@ -95,13 +95,13 @@ export const ResultsSection = () => {
         <div className="grid lg:grid-cols-2 gap-12">
           <BeforeAfterSlider 
             title="Skin Brightening"
-            beforeImage="/before1.jpg"
-            afterImage="/after1.jpg"
+            beforeImage="/before1.png"
+            afterImage="/after1.png"
           />
           <BeforeAfterSlider 
             title="Microneedling"
-            beforeImage="/before2.jpg"
-            afterImage="/after2.jpg"
+            beforeImage="/before2.png"
+            afterImage="/after2.png"
           />
         </div>
       </div>
