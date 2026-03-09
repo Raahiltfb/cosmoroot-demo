@@ -69,13 +69,13 @@ export const REVIEWS = [
     name: "Anu Neemgaonkar",
     text: "Nice experience. Very good skin procedures are available. Nicely done.",
     rating: 5,
-    image: "/akshaybiju.png",
+    image: "/anuneem.png",
   },
   {
     id: 3,
     name: "Dr. Gaurav Ahire",
     text: "Excellent",
     rating: 5,
-    image: "/mithungowda.png",
+    image: "/gauravahire.png",
   },
 ];
