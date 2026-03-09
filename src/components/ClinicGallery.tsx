@@ -3,9 +3,9 @@ import { motion } from 'framer-motion';
 
 export const ClinicGallery = () => {
   const images = [
-    "/interior1.jpg",
-    "/interior2.jpg",
-    "/interior3.jpg",
+    "/interior1.png",
+    "/interior2.png",
+    "/interior3.png",
     "/interior4.jpg",
     "/interior5.jpg",
     "/interior6.jpg",
