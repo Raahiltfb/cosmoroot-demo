@@ -7,7 +7,7 @@ export const WhyChooseUs = () => {
     {
       icon: <Shield size={32} />,
       title: "Experienced Doctors",
-      description: "Our board-certified specialists have over 12 years of experience in clinical and cosmetic dermatology."
+      description: "Our board-certified specialists have over 7 years of experience in clinical and cosmetic dermatology."
     },
     {
       icon: <Microscope size={32} />,
