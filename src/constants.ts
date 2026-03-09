@@ -6,7 +6,7 @@ export const CLINIC_DATA = {
   whatsapp: "+919867774051",
   email: "cosmoroot@cosmoroot.com",
   address: "CosmoRoot Clinic, Besides Shantanu Medical, Swami Samarth Building, Shop No 6 Ashoka Marg, Kalpataru Nagar, Nashik, Maharashtra 422011",
-  googleRating: "5.0",
+  googleRating: "5",
   happyClients: "1000+",
   experience: "10+",
   treatmentsCount: "100+",
