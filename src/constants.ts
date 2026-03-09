@@ -22,37 +22,37 @@ export const TREATMENTS = [
     id: 1,
     name: "Hydrafacial",
     description: "The ultimate 3-in-1 detox: Cleanse, extract, and hydrate for an instant, red-carpet glow.",
-    image: "/featured1.jpg",
+    image: "/featured1.png",
   },
   {
     id: 2,
     name: "Chemical Peel",
     description: "Hit the reset button on your skin to reveal a smoother, brighter, and more even complexion.",
-    image: "/featured2.jpg",
+    image: "/featured2.png",
   },
   {
     id: 3,
     name: "Hair Mesotherapy",
     description: "Feed your follicles from within with a potent nutrient boost for thicker, healthier hair.",
-    image: "/featured3.jpg",
+    image: "/featured3.png",
   },
   {
     id: 4,
     name: "Eyebrow Microblading",
     description: "Wake up with perfectly sculpted, natural-looking brows that never need a pencil.",
-    image: "/featured4.jpg",
+    image: "/featured4.png",
   },
   {
     id: 5,
     name: "Lip Blush",
     description: "Define your pout with a soft, effortless tint of color that lasts all day, every day.",
-    image: "/featured5.jpg",
+    image: "/featured5.png",
   },
   {
     id: 6,
     name: "Laser Hair Reduction",
     description: "Trade the razor for lasting smoothness and enjoy the freedom of hair-free skin.",
-    image: "/featured6.jpg",
+    image: "/featured6.png",
   },
 ];
 
