@@ -26,7 +26,7 @@ export const BeforeAfterSlider = ({ beforeImage, afterImage, title }: BeforeAfte
       <h3 className="text-2xl font-display font-bold text-primary">{title}</h3>
       <div 
         ref={containerRef}
-        className="relative w-full max-w-2xl aspect-[4/3] rounded-[32px] overflow-hidden cursor-ew-resize select-none shadow-2xl border border-black/5"
+        className="relative w-full max-w-2xl aspect-[4/3] rounded-[36px] overflow-hidden cursor-ew-resize select-none shadow-2xl border border-black/5"
         onMouseMove={handleMove}
         onTouchMove={handleMove}
       >
@@ -94,12 +94,12 @@ export const ResultsSection = () => {
 
         <div className="grid lg:grid-cols-2 gap-12">
           <BeforeAfterSlider 
-            title="Skin Brightening"
+            title="Chemical Peel"
             beforeImage="/before1.png"
             afterImage="/after1.png"
           />
           <BeforeAfterSlider 
-            title="Microneedling"
+            title="Facial"
             beforeImage="/before2.png"
             afterImage="/after2.png"
           />
