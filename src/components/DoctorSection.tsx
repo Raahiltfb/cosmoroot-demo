@@ -6,7 +6,7 @@ import { CLINIC_DATA } from '../constants';
 export const DoctorSection = () => {
   const trustIndicators = [
     { icon: <ShieldCheck className="text-accent" />, text: "Board Certified Dermatologist" },
-    { icon: <Award className="text-accent" />, text: "12+ Years of Clinical Excellence" },
+    { icon: <Award className="text-accent" />, text: "7+ Years of Clinical Excellence" },
     { icon: <Users className="text-accent" />, text: "Personalized Patient Care" },
     { icon: <Heart className="text-accent" />, text: "Advanced Medical Equipment" },
   ];
@@ -35,7 +35,7 @@ export const DoctorSection = () => {
             
             <div className="absolute bottom-10 right-10 bg-white p-6 rounded-3xl shadow-xl z-20 border border-black/5">
               <div className="text-center">
-                <div className="text-3xl font-bold text-primary">12+</div>
+                <div className="text-3xl font-bold text-primary">7+</div>
                 <div className="text-xs text-primary/50 font-medium uppercase tracking-widest">Years Exp</div>
               </div>
             </div>
@@ -50,11 +50,11 @@ export const DoctorSection = () => {
               Meet Our Expert
             </div>
             <h2 className="text-4xl md:text-5xl font-display font-bold text-primary mb-6 leading-tight">
-              Dr. Rupali M <br />
-              <span className="text-primary/40 font-light">MD, FAAD (Dermatology)</span>
+              Dr. Pooja Shinde Hake <br />
+              <span className="text-primary/40 font-light">FMC Certified</span>
             </h2>
             <p className="text-primary/60 text-lg mb-8 leading-relaxed">
-              With over a decade of experience in medical and cosmetic dermatology, Dr. Rupali is dedicated to providing evidence-based treatments that deliver natural, long-lasting results. She believes in a holistic approach to skin health, combining advanced technology with personalized care.
+              With over 7 years of expertise as a Master Trainer in Aesthetics and PMU, Dr. Pooja Shinde Hake blends global standards with personalized care. Internationally FMC certified across the USA, UK, Australia, and Canada, she specializes in advanced Cosmetology and Trichology to deliver science-backed, natural results that empower your confidence.
             </p>
 
             <div className="grid sm:grid-cols-2 gap-6 mb-10">
@@ -72,7 +72,7 @@ export const DoctorSection = () => {
               href="#contact"
               className="inline-flex items-center justify-center bg-primary text-white px-10 py-4 rounded-full font-bold hover:bg-primary/90 transition-all hover:scale-105 active:scale-95"
             >
-              Consult Dr. Rupali
+              Consult Dr. Pooja
             </a>
           </motion.div>
         </div>
